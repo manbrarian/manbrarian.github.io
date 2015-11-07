@@ -67,6 +67,7 @@ footer h2{
 	font-size: 25px;
 	font-weight: normal;
 	left: 50%;
+	text-align: center;
 	margin-left: -400px;
 	padding: 5px 0 5px;
 	position: absolute;
