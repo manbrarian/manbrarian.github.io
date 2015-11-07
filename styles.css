@@ -51,9 +51,9 @@ section, footer, header{
 
 
 footer{
-	background-color: #ccc;
+	background-color: #111111;
 	bottom: 0;
-	box-shadow: 0 -1px 2px rgba(0,0,0,0.4);
+	/*box-shadow: 0 -1px 2px rgba(0,0,0,0.4);*/
 	height: 45px;
 	left: 0;
 	position: fixed;
@@ -63,7 +63,7 @@ footer{
 
 footer h2{
 	color: #2980b9;
-	font-size: 14px;
+	font-size: 22px;
 	font-weight: normal;
 	left: 50%;
 	margin-left: -400px;
