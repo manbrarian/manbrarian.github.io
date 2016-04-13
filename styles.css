@@ -16,11 +16,11 @@
 
 html{
 	/* This image will be displayed fullscreen */
-	background:url('http://manbrarian.com/manbrarian2.jpg') no-repeat center center;
-	
+	background:url('http://manbrarian.com/12gqox.jpg') no-repeat center center;
+
 	/* Ensure the html element always takes up the full height of the browser window */
 	min-height:100%;
-	
+
 	/* The Magic */
 	background-size:cover;
 }
