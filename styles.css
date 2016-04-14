@@ -5,9 +5,6 @@ Simple reset
 margin:0;
 padding:0;
 }
-/*-------------------------
-General Styles
---------------------------*/
 h1 {
 font-family: 'Open Sans', sans-serif;
 color: #FEFEFF;
@@ -19,17 +16,9 @@ text-transform: uppercase;
 padding: 15px 15px 20px 15px;
 margin: 55px 15px 20px 15px;
 }
-
-
-
-
-
 html{
-/* This image will be displayed fullscreen */
 background:url('http://manbrarian.com/manbrarian2.jpg') no-repeat center center;
-/* Ensure the html element always takes up the full height of the browser window */
 min-height:100%;
-/* The Magic */
 background-size:cover;
 }
 body{
@@ -72,7 +61,6 @@ padding: 5px 0 5px;
 position: absolute;
 width: 540px;
 }
-
 footer h2 i{
 font-style:normal;
 color:#2980b9;
